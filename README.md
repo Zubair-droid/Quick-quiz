@@ -4,3 +4,4 @@
 
 <img src = "https://github.com/Zubair-droid/Quick-quiz/blob/main/quizBanner.PNG" alt = "">
 
+Check it here: https://zubair-droid.github.io/Quick-quiz/index.html
