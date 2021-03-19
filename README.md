@@ -1,4 +1,6 @@
-# Made a quick-quiz app with HTML,CSS,JavaScipt and Open TriviaDB for storing and showing up the question
+# Developed a quick-quiz app 
+
+ Built with HTML,CSS,JavaScipt and Open TriviaDB for storing and showing up the questions
 
 <img src = "https://github.com/Zubair-droid/Quick-quiz/blob/main/quizBanner.PNG" alt = "">
 
